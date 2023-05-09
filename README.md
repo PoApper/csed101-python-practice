@@ -36,7 +36,7 @@
 
 편리한 테스트 코드 작성을 위해, `doctest`를 사용합니다. <a href=https://docs.python.org/ko/3/library/doctest.html>[official doc]</a>  
 사용하는 가장 간단한 템플릿은 다음과 같습니다.  
-```
+```python
 def func():
     """
     >>> func()
