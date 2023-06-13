@@ -11,7 +11,7 @@ def myMin(iterable):
         myMin(sample)
     0
     """
-    return min(iterable)
+    # TODO
 
 def myMax(iterable):
     """
@@ -24,7 +24,7 @@ def myMax(iterable):
         myMax(sample)
     99
     """
-    return max(iterable)    
+    # TODO
 
 if __name__ == "__main__":
     import doctest
