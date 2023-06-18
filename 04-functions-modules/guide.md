@@ -1,12 +1,20 @@
 # functions and modules
 
 ## MinMax
+
 - difficulty: ★☆☆
 - time: ~ 15m for beginners
 - background: list, iteration
 
 Implement `min`, `max` functions on your own.
 
+## Swap Index
+
+- difficulty: ★☆☆
+- time: ~ 15m for beginners
+- background: list
+
+Implement a function which swaps indices of list.
 
 ## Hanoi
 - difficulty: ★☆☆
@@ -22,4 +30,3 @@ Implement `hanoi` function on your own. `hanoi` function is a guide that tells h
 - background: function, recursion
 
 Implement a function which calculates binomial coefficient, $\prescript{}{n}C_k$.
-
