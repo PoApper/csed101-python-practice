@@ -17,6 +17,7 @@ Implement `min`, `max` functions on your own.
 Implement a function which swaps indices of list.
 
 ## Hanoi
+
 - difficulty: ★☆☆
 - time: ~ 30m for beginners
 - background: recursion
