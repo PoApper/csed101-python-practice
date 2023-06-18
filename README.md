@@ -1,5 +1,7 @@
 # csed101-python-practice
 
+[![Run Tests for Answers](https://github.com/PoApper/csed101-python-practice/actions/workflows/python-tests.yml/badge.svg?branch=main)](https://github.com/PoApper/csed101-python-practice/actions/workflows/python-tests.yml)
+
 
 ## About
 포스텍의 프로그래밍과 문제해결 과목 수강생과 파이썬을 처음 배우는 초보자들을 위한 파이썬 연습 문제들을 담은 저장소 입니다.
