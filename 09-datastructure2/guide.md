@@ -4,7 +4,6 @@
 
 - difficulty: ★★☆
 - time: ~ 30m for beginners
-- background: list, iteration
+- background: list-comprehension
 
 Solve fizzbuzz using list comprehension.
-
