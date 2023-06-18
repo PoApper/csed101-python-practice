@@ -1,0 +1,13 @@
+[tool.pytest.ini_options]
+addopts = "--doctest-modules"
+testpaths = [
+  "02-memory-variable/*-answer.py",
+  "03-input-output/*-answer.py",
+  "04-functions-modules/*-answer.py",
+  "05-operators-expressions/*-answer.py",
+  "06-controlflow/*-answer.py",
+  "07-datastructure1/*-answer.py",
+  "08-file/*-answer.py",
+  "09-datastructure2/*-answer.py",
+  "10-class-oop/*-answer.py",
+]
