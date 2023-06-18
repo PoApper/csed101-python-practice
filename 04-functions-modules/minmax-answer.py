@@ -13,7 +13,8 @@ def myMin(iterable):
     """
     min_value = iterable[0]
     for val in iterable:
-        min_value = min(min_value, val)
+        if min_value > val:
+            min_value = val
     return min_value
 
 def myMax(iterable):
@@ -29,7 +30,8 @@ def myMax(iterable):
     """
     max_value = iterable[0]
     for val in iterable:
-        max_value = max(max_value, val)
+        if max_value < val:
+            max_value = val
     return max_value
 
 if __name__ == "__main__":
