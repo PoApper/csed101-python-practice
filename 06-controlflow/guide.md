@@ -4,7 +4,6 @@
 
 - difficulty: ★☆☆
 - time: ~ 15m for beginners
-- background: if, for
+- background: conditional, iteration
 
 Solve fizzbuzz in classical way.
-
