@@ -6,4 +6,4 @@
 - time: ~ 30m for beginners
 - background: list-comprehension
 
-Solve fizzbuzz using list comprehension.
+Solve the fizzbuzz problem in lecture 6 using list comprehension.
