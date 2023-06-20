@@ -16,6 +16,11 @@ def palindrome_check(ls):
     reversed_list = copy.copy(ls)
     reversed_list.reverse()
     return ls == reversed_list
+    # Instead of using `reverse`, you can also write for loop:
+    # for i in range(len(ls)):
+    #     if ls[i] != ls[len(ls) - i - 1]:
+    #         return False
+    # return True
 
 
 if __name__ == "__main__":
