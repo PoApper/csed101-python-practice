@@ -18,7 +18,6 @@
 - File
 - Data Structure 02
 - Class and Object-Oriented-Programming
-- (추가 예정)
 
 ## How to solve problems
 0. 기본적으로 컴퓨터에서 파이썬을 실행할 환경을 만들어주세요.  <br />
