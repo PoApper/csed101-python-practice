@@ -1,6 +1,6 @@
 def binomial_coefficient(n, k):
     """
-    Calcaulate binomial coefficient nCk, using recursion.
+    Calculate binomial coefficient nCk, using recursion.
     Hint:
     nCk = (n - 1)C(k - 1) + (n - 1)Ck
     nC0 = 1
