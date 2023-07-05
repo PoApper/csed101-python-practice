@@ -8,3 +8,10 @@
 
 Check if the given list is palindrome.
 
+## Transpose
+
+- difficulty: ★★☆
+- time: ~ 30m for beginners
+- background: lists, iteration
+
+Calculate a transpose of a given matrix.
