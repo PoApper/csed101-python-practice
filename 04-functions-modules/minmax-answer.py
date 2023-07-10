@@ -1,5 +1,6 @@
 import random
 
+
 def myMin(iterable):
     """
     >>> myMin([7, 6, 5])
@@ -16,6 +17,7 @@ def myMin(iterable):
         if min_value > val:
             min_value = val
     return min_value
+
 
 def myMax(iterable):
     """
@@ -34,6 +36,8 @@ def myMax(iterable):
             max_value = val
     return max_value
 
+
 if __name__ == "__main__":
     import doctest
+
     doctest.testmod(verbose=True)

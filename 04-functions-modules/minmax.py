@@ -1,5 +1,6 @@
 import random
 
+
 def myMin(iterable):
     """
     >>> myMin([7, 6, 5])
@@ -12,6 +13,7 @@ def myMin(iterable):
     0
     """
     # TODO
+
 
 def myMax(iterable):
     """
@@ -26,6 +28,9 @@ def myMax(iterable):
     """
     # TODO
 
+
 if __name__ == "__main__":
     import doctest
+
     doctest.testmod(verbose=True)
+
