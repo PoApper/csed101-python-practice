@@ -15,3 +15,11 @@ Check if the given list is palindrome.
 - background: lists, iteration
 
 Flatten the given 2D list into an 1D list.
+
+## Transpose
+
+- difficulty: ★★☆
+- time: ~ 30m for beginners
+- background: lists, iteration
+
+Calculate a transpose of a given matrix.
