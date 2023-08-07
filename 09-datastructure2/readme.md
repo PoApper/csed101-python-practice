@@ -16,6 +16,14 @@ Solve the fizzbuzz problem in lecture 6 using list comprehension.
 
 Implement a function `sum_args`, which sums the numbers provided as arguments.
 
+## Parentheses Matching
+
+- difficulty: ★★☆
+- time: ~ 30m for beginners
+- background: loops, stacks, tuples
+
+Implement parentheses matching.
+
 ## RPN Calculator
 
 - difficulty: ★★★
